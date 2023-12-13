@@ -1,5 +1,7 @@
 # README
 
+## vue2+django+jwt+celery
+
 ## python manage.py makemigrations
 
 ## python manage.py migrate
